@@ -1,0 +1,19 @@
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\bin\Debug\TP2 PGE.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\bin\Debug\TP2 PGE.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\bin\Debug\TP2 PGE.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2_PGE.Form1.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2_PGE.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.pdb
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.exe
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.pdb
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\bin\Debug\TP2 PGE.exe.config
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\bin\Debug\TP2 PGE.exe
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\bin\Debug\TP2 PGE.pdb
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2_PGE.Form1.resources
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2_PGE.Properties.Resources.resources
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\TP 2 PGE - WindowsForm\TP2 PGE\TP2 PGE\obj\Debug\TP2 PGE.csproj.CoreCompileInputs.cache

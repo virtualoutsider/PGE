@@ -1,0 +1,3 @@
+Nombre: Tomas
+Edad: 123
+Puntuacion Maxima: 0

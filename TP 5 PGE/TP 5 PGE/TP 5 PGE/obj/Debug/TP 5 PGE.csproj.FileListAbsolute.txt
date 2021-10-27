@@ -1,0 +1,11 @@
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\bin\Debug\TP 5 PGE.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\bin\Debug\TP 5 PGE.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\bin\Debug\TP 5 PGE.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP 5 PGE.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP_5_PGE.Form1.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP_5_PGE.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP 5 PGE.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP 5 PGE.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP 5 PGE.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP 5 PGE.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 5 PGE\TP 5 PGE\TP 5 PGE\obj\Debug\TP_5_PGE.Form2.resources

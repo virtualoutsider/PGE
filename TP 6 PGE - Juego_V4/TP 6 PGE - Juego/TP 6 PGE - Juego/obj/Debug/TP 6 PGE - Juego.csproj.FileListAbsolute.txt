@@ -1,0 +1,46 @@
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form1.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form1.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V2\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form2.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form1.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form2.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form3.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V3\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form1.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form2.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form3.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Form4.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP_6_PGE___Juego.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\obj\Debug\TP 6 PGE - Juego.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 6 PGE - Juego_V4\TP 6 PGE - Juego\TP 6 PGE - Juego\bin\Debug\TP 6 PGE - Juego.pdb

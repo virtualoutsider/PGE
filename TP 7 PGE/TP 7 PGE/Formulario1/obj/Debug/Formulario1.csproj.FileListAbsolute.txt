@@ -1,0 +1,13 @@
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\bin\Debug\Formulario1.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\bin\Debug\Formulario1.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\bin\Debug\Formulario1.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\bin\Debug\TP 7 PGE.dll
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\bin\Debug\TP 7 PGE.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.Form1.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.csproj.CopyComplete
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\Formulario1\obj\Debug\Formulario1.pdb

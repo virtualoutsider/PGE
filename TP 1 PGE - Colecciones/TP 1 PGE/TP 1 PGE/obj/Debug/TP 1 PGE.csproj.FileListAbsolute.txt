@@ -1,0 +1,7 @@
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 1 PGE - Colecciones\TP 1 PGE\TP 1 PGE\bin\Debug\TP 1 PGE.exe.config
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 1 PGE - Colecciones\TP 1 PGE\TP 1 PGE\bin\Debug\TP 1 PGE.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 1 PGE - Colecciones\TP 1 PGE\TP 1 PGE\bin\Debug\TP 1 PGE.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 1 PGE - Colecciones\TP 1 PGE\TP 1 PGE\obj\Debug\TP 1 PGE.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 1 PGE - Colecciones\TP 1 PGE\TP 1 PGE\obj\Debug\TP 1 PGE.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 1 PGE - Colecciones\TP 1 PGE\TP 1 PGE\obj\Debug\TP 1 PGE.exe
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 1 PGE - Colecciones\TP 1 PGE\TP 1 PGE\obj\Debug\TP 1 PGE.pdb

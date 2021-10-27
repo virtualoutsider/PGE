@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP 5 PGE", "TP 5 PGE\TP 5 PGE.csproj", "{64130491-0B34-4231-86B6-91C5AA70A251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64130491-0B34-4231-86B6-91C5AA70A251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64130491-0B34-4231-86B6-91C5AA70A251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64130491-0B34-4231-86B6-91C5AA70A251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64130491-0B34-4231-86B6-91C5AA70A251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989BA315-2693-49E5-91D9-EA653D9BCF94}
+	EndGlobalSection
+EndGlobal

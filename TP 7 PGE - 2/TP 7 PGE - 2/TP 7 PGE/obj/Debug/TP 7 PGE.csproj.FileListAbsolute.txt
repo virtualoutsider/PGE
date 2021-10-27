@@ -1,0 +1,9 @@
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\bin\Debug\TP 7 PGE.dll
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\bin\Debug\TP 7 PGE.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\obj\Debug\TP_7_PGE.TextoBoxu.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\obj\Debug\TP 7 PGE.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\obj\Debug\TP 7 PGE.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\obj\Debug\TP 7 PGE.dll
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\obj\Debug\TP 7 PGE.pdb
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\obj\Debug\TP_7_PGE.Labelu.resources
+C:\Users\Tomas\Desktop\Facultad 3ero\2do Cuatrimestre\Programacion Generica y Eventos\TP 7 PGE\TP 7 PGE\TP 7 PGE\obj\Debug\TP_7_PGE.ChangePassword.resources
